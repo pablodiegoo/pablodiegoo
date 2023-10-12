@@ -5,7 +5,7 @@
 </h2>
 <h3>
   <div width="100%" align="center">
-    <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen"><img width="22" align="left" src="svg/bmc-logo.svg"></a>
+    <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen"><img width="16" align="left" src="svg/bmc-logo.svg"></a>
     <a align="left" href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile"><img align="left" width="22" src="svg/linkedin.svg"></a>
     <a align="left" href="https://github.com/pablodiegoo" title="Github"><img width="22" align="left" src="svg/github.svg"></a>
     <a align="left" href="https://codepen.io/pablodiegoo" title="CodePen"><img width="22" align="left" src="svg/codepen.svg"></a>
