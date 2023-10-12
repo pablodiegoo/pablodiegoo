@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1055"
+   height="100"
+   viewBox="0 0 279.13541 26.458333"
+   version="1.1"
+   id="svg1147"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cover_pablo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1149"
+     pagecolor="#ececec"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.256872"
+     inkscape:cx="527.5"
+     inkscape:cy="49.726621"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1144">
+    <marker
+       style="overflow:visible"
+       id="marker3343"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3341"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="4.75"
+       markerHeight="2.7142856"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2555"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="4.75"
+       markerHeight="2.7142856"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2553"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';direction:ltr;fill:#000000;stroke-width:0.265001"
+       x="2.3670731"
+       y="9.4043655"
+       id="text1292"><tspan
+         sodipodi:role="line"
+         id="tspan1290"
+         style="direction:ltr;stroke-width:0.265"
+         x="2.3670731"
+         y="9.4043655">Hi, I'm Pablo!👋 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';direction:ltr;fill:#000000;stroke-width:0.265001"
+       x="2.0387154"
+       y="23.160156"
+       id="text1346"><tspan
+         sodipodi:role="line"
+         id="tspan1344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.265"
+         x="2.0387154"
+         y="23.160156">Economist | Data Analyst |Content Creator</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;marker-start:url(#Arrow1L);marker-end:url(#marker2555)"
+       d="m 216.2949,6.28676 v 16.79589 h 57.65862"
+       id="path2262" />
+    <path
+       style="fill:none;stroke:#383838;stroke-width:0.464873;stroke-dasharray:0.464873, 0.464873;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3343)"
+       d="m 216.39795,22.38644 6.1031,-12.8681 4.98377,6.65124 2.58429,-5.08434 2.38404,4.41128 1.12978,3.34429 0.35091,-9.58486 0.86183,3.45179 4.29366,-7.33574 2.03516,9.87133 2.75183,-6.53387 4.84963,11.07225 2.5656,-10.24559 4.23106,9.20779 4.18457,-13.11702 1.27986,8.43632 2.30335,-1.7726 0.85694,4.79778 2.66235,-1.34221 2.07845,2.9978 5.08509,-13.72115"
+       id="path3339" />
+  </g>
+</svg>
