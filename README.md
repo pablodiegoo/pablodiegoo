@@ -6,10 +6,18 @@
 </h2>
 <h3>
   <div width="100%" align="center">
-    <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen"><img width="16" align="left" src="svg/bmc-logo.svg"></a>
-    <a align="left" href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile"><img align="left" width="22" src="svg/linkedin.svg"></a>
-    <a align="left" href="https://github.com/pablodiegoo" title="Github"><img width="22" align="left" src="svg/github.svg"></a>
-    <a align="left" href="https://codepen.io/pablodiegoo" title="CodePen"><img width="22" align="left" src="svg/codepen.svg"></a>
+    <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
+      <img width="16" align="left" src="svg/bmc-logo.svg">
+    </a>
+    <a align="left" href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile">
+      <img align="left" width="22" fill="#454545" src="svg/linkedin.svg">
+    </a>
+    <a align="left" href="https://github.com/pablodiegoo" title="Github">
+      <img width="22" align="left"  fill="#454545" src="svg/github.svg">
+    </a>
+    <a align="left" href="https://codepen.io/pablodiegoo" title="CodePen">
+      <img width="22" align="left" fill="#454545" src="svg/codepen.svg">
+    </a>
     <a align="right" href="https://www.buymeacoffee.com/pablodiego"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
     </div>
   </h3>
@@ -30,5 +38,8 @@
 
 ### 📊 Github Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pablodiegoo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=700" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width=100% src="https://streak-stats.demolab.com?user=pablodiegoo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=600" alt="GitHub Streak" /></a>
+
+<img width=49% src="https://raw.githubusercontent.com/pablodiegoo/github-stats-transparent/output/generated/languages.svg"/>
+<img width=49% src="https://raw.githubusercontent.com/pablodiegoo/github-stats-transparent/output/generated/overview.svg"/>
 
