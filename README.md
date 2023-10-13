@@ -21,7 +21,7 @@
     <a align="left" href="https://www.freecodecamp.org/fcc21bdd3b0-017c-4bcd-ac26-8f8191da73a8" title="CodePen">
       <img width="22" align="left" fill="#454545" src="svg/freecodecamp.svg">
     </a>
-    <a align="right" href="https://www.buymeacoffee.com/pablodiego"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+    <a align="right" href="https://www.buymeacoffee.com/pablodiego"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" style="max-width: 100%; margin: -25px 0;"/></a>
     </div>
   </h2>
 
