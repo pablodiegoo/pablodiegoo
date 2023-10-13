@@ -19,8 +19,8 @@
     </a>
     </div>
 
-  <div width="50%" align="right">
-    <a align="top" href="https://www.buymeacoffee.com/pablodiego"><img align="top" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+  <div width="50%">
+    <a href="https://www.buymeacoffee.com/pablodiego"><img height=30 align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
     </div>
   </h2>
 
