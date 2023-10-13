@@ -1,11 +1,7 @@
-
 <code><img src="svg/cover_pablo.svg"></a></code>
-
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=595959&random=false&width=435&lines=Welcome+people+and+mystical+beings.;Hoping+to+contribute+on+your+journey;Working+with+data+10%2B+years;Now+walking+over+the+tech+tightrope" alt="Typing SVG" /></a>
-</h2>
-<h2>
+<h1>
   <div width="100%" align="center">
+  <div width="50%" align="left">
     <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
       <img width="16" align="left" src="svg/bmc-logo.svg">
     </a>
@@ -21,9 +17,12 @@
     <a align="left" href="https://www.freecodecamp.org/fcc21bdd3b0-017c-4bcd-ac26-8f8191da73a8" title="CodePen">
       <img width="22" align="left" fill="#454545" src="svg/freecodecamp.svg">
     </a>
+    </div>
+
+  <div width="50%" align="right">
     <a align="right" href="https://www.buymeacoffee.com/pablodiego"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" style="max-width: 100%; margin: -20px 0;"/></a>
     </div>
-  </h2>
+  </h1>
 
 
 
