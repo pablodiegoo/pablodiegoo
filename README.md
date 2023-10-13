@@ -1,6 +1,6 @@
 <code><img src="svg/cover_pablo.svg"></a></code>
-<h1>
-  <div width="100%" align="center">
+<h2>
+  <div width="100%">
   <div width="50%" align="left">
     <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
       <img width="16" align="left" src="svg/bmc-logo.svg">
@@ -19,10 +19,10 @@
     </a>
     </div>
 
-  <div width="50%" align="right" style="margin: -20px 0">
-    <a align="right" href="https://www.buymeacoffee.com/pablodiego"><img align="right" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+  <div width="50%" align="right">
+    <a align="top" href="https://www.buymeacoffee.com/pablodiego"><img align="top" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pablodiego&button_colour=343434&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
     </div>
-  </h1>
+  </h2>
 
 
 
