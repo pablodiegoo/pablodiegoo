@@ -42,5 +42,5 @@
 
 <a href="https://git.io/streak-stats"><img width=100% src="https://streak-stats.demolab.com?user=pablodiegoo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=600" alt="GitHub Streak" /></a>
 
-<img width=100% src="https://raw.githubusercontent.com/pablodiegoo/github-stats-transparent/output/generated/languages.svg"/>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pablodiegoo&bg_color=''&color=454545&line=990000&point=454545&area=true&hide_border=true"></a>
+<img width=50% src="https://raw.githubusercontent.com/pablodiegoo/github-stats-transparent/output/generated/languages.svg"/>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=pablodiegoo&bg_color=''&color=454545&line=990000&point=454545&area=true&hide_border=true"></a>
