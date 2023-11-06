@@ -5,16 +5,16 @@
     <a align="left" href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
       <img width="16" align="left" src="svg/bmc-logo.svg">
     </a>
-    <a fill="#969696" align="left" href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile">
+    <a align="left" href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile">
       <img align="left" width="22" fill="#454545" src="svg/linkedin.svg">
     </a>
-    <a fill="#969696" align="left" href="https://github.com/pablodiegoo" title="Github">
+    <a align="left" href="https://github.com/pablodiegoo" title="Github">
       <img width="22" align="left"  fill="#454545" src="svg/github.svg">
     </a>
-    <a fill="#969696" align="left" href="https://codepen.io/pablodiegoo" title="CodePen">
+    <a align="left" href="https://codepen.io/pablodiegoo" title="CodePen">
       <img width="22" align="left" fill="#454545" src="svg/codepen.svg">
     </a>
-    <a fill="#969696" align="left" href="https://www.freecodecamp.org/fcc21bdd3b0-017c-4bcd-ac26-8f8191da73a8" title="CodePen">
+    <a align="left" href="https://www.freecodecamp.org/fcc21bdd3b0-017c-4bcd-ac26-8f8191da73a8" title="CodePen">
       <img width="22" align="left" fill="#454545" src="svg/freecodecamp.svg">
     </a>
     </div>
