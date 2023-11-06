@@ -3,13 +3,13 @@
 <svg width="1055" height="100" version="1.1" viewBox="0 0 279.14 26.458" xmlns="http://www.w3.org/2000/svg" xmlns:xlink='http://www.w3.org/1999/xlink'>
     <defs>
         <marker id="a" overflow="visible" markerHeight="5" markerWidth="8.75" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
-            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+            <path stroke="#969696" transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
         </marker>
         <marker id="c" overflow="visible" markerHeight="2.7142856" markerWidth="4.75" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
-            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+            <path stroke="#969696" transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
         </marker>
         <marker id="b" overflow="visible" markerHeight="2.7142856" markerWidth="4.75" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" viewBox="0 0 8.75 5">
-            <path transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
+            <path stroke="#969696" transform="scale(-.5)" d="m0 0 5-5-17.5 5 17.5 5z" fill="context-stroke" fill-rule="evenodd" />
         </marker>
     </defs>
           <path id='path0'>
@@ -39,9 +39,9 @@
     <text x="2.0387154" y="23.160156" fill="#000000" font-family="sans-serif" font-size="4.5861px" font-weight="bold" stroke-width=".265" xml:space="preserve">
         <tspan x="2.9387154" y="10.160156" font-family="sans-serif" font-size="4.5861px" font-weight="normal" stroke-width=".265">Economist | Data Analyst |Content Creator</tspan>
     </text>
-    <path d="m216.29 6.2868v16.796h57.659" fill="none" marker-end="url(#b)" marker-start="url(#c)" stroke="#000" stroke-width=".79375" />
-    <path d="m216.4 22.386 6.1031-12.868 4.9838 6.6512 2.5843-5.0843 2.384 4.4113 1.1298 3.3443 0.35091-9.5849 0.86183 3.4518 4.2937-7.3357 2.0352 9.8713 2.7518-6.5339 4.8496 11.072 2.5656-10.246 4.2311 9.2078 4.1846-13.117 1.2799 8.4363 2.3034-1.7726 0.85694 4.7978 2.6624-1.3422 2.0784 2.9978 5.0851-13.721" fill="none" marker-end="url(#a)" stroke="#383838" stroke-dasharray="0.764873, 0.464873" stroke-width=".26487"/>
-    <path d="m216.4 22.386 6.1031-12.868 4.9838 6.6512 2.5843-5.0843 2.384 4.4113 1.1298 3.3443 0.35091-9.5849 0.86183 3.4518 4.2937-7.3357 2.0352 9.8713 2.7518-6.5339 4.8496 11.072 2.5656-10.246 4.2311 9.2078 4.1846-13.117 1.2799 8.4363 2.3034-1.7726 0.85694 4.7978 2.6624-1.3422 2.0784 2.9978 5.0851-13.721" fill="none" marker-end="url(#a)" stroke="#760000" stroke-width=".46487">
+    <path stroke="#969696" d="m216.29 6.2868v16.796h57.659" fill="none" marker-end="url(#b)" marker-start="url(#c)" stroke="#000" stroke-width=".79375" />
+    <path stroke="#969696" d="m216.4 22.386 6.1031-12.868 4.9838 6.6512 2.5843-5.0843 2.384 4.4113 1.1298 3.3443 0.35091-9.5849 0.86183 3.4518 4.2937-7.3357 2.0352 9.8713 2.7518-6.5339 4.8496 11.072 2.5656-10.246 4.2311 9.2078 4.1846-13.117 1.2799 8.4363 2.3034-1.7726 0.85694 4.7978 2.6624-1.3422 2.0784 2.9978 5.0851-13.721" fill="none" marker-end="url(#a)" stroke="#383838" stroke-dasharray="0.764873, 0.464873" stroke-width=".26487"/>
+    <path stroke="#969696" d="m216.4 22.386 6.1031-12.868 4.9838 6.6512 2.5843-5.0843 2.384 4.4113 1.1298 3.3443 0.35091-9.5849 0.86183 3.4518 4.2937-7.3357 2.0352 9.8713 2.7518-6.5339 4.8496 11.072 2.5656-10.246 4.2311 9.2078 4.1846-13.117 1.2799 8.4363 2.3034-1.7726 0.85694 4.7978 2.6624-1.3422 2.0784 2.9978 5.0851-13.721" fill="none" marker-end="url(#a)" stroke="#760000" stroke-width=".46487">
     <animate attributeName="stroke-dasharray" values="0 100%; 10% 100%; 100% 10%; 10% 100%" keyTimes="0; 0.5; 0.9; 1" dur="4s" begin="0s" repeatCount="indefinite"
     />
   </path>
