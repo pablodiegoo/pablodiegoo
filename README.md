@@ -1,6 +1,6 @@
 <code><img src="svg/cover_pablo.svg"></code>
 <h2>
-  <div width="100%">
+  <div width="100%" class="flex-container">
     <div width="50%">
       <a href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
         <img width="16" src="svg/bmc-logo.svg">
