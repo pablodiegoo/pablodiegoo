@@ -1,4 +1,4 @@
-<code><img src="svg/cover_pablo.svg"></code>
+<img src="svg/cover_pablo.svg">
 <h2>
   <div width="100%">
       <a href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
