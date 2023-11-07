@@ -1,9 +1,9 @@
 <code><img src="svg/cover_pablo.svg"></code>
 <h2>
-  <div width="100%" class="flex-container">
-    <div width="50%">
+  <div width="100%">
+    <div width="50%" align="left">
       <a href="https://www.buymeacoffee.com/pablodiego" title="CodePen">
-        <img width="16" src="svg/bmc-logo.svg">
+        <img width="18" src="svg/bmc-logo.svg">
       </a>
       <a href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile">
         <img width="22" src="svg/linkedin.svg">
