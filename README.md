@@ -31,7 +31,7 @@
 - Ask me about investment strategies, financial planning, and how data can drive informed decision-making.
 - How to reach me: Connect with me on [LinkedIn](www.linkedin.com/in/pablodiegoo) or visit my [Github page](https://pablodiegoo.github.io/) to explore my projects.
 
-- ⚡ Fun fact: I once created a successful website, [L96.APP](https://l96.app), during the pandemic to support the Rise of Empires gaming community and share content.
+- Fun fact: I once created a successful website, [L96.APP](https://l96.app), during the pandemic to support the Rise of Empires gaming community and share content.
 
 ### 📊 Github Stats
 
