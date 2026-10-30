@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/pablodiegoo/dataprofile/output/generated/tufte/header.svg" width="100%" alt="Pablo Diego Pereira — Animated Header" />
 </p>
 
-<div>
+<!-- <div>
   <a href="https://www.buymeacoffee.com/pablodiego" title="Buy Me a Coffee"><img width="18" src="svg/bmc-logo.svg" alt="Buy Me a Coffee" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/pablodiegoo/" title="LinkedIn Profile"><img width="20" src="svg/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/pablodiegoo" title="GitHub Profile"><img width="20" src="svg/github.svg" alt="GitHub" /></a>&nbsp;
@@ -19,7 +19,7 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pablodiegoo.pablodiegoo" alt="Visitor badge" />
 </div>
 
-<br clear="both" />
+<br clear="both" /> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pablodiegoo/dataprofile/output/generated/tufte/bio-full.svg" width="100%" alt="Pablo Diego Pereira — Career Biography" />
